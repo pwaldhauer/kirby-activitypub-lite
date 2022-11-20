@@ -1,0 +1,16 @@
+{
+    "name": "pwaldhauer/kirby-activitypub-lite",
+    "autoload": {
+        "psr-4": {
+            "ActivityPubLite\\": "src/",
+            "ActivityPubLiteKirby\\": "kirby/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Philipp Waldhauer",
+            "email": "hi@pwa.io"
+        }
+    ],
+    "require": {}
+}
