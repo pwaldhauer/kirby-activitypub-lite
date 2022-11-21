@@ -17,6 +17,8 @@ It's a preview version, please only use for reference.
 
 ## Setup
 
+Install via `composer require pwaldhauer/kirby-activitypub-lite`.
+
 Create a keypair and place it somewhere (e.g. besides the `config.php`)
 
 ```shell
